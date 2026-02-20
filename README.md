@@ -22,13 +22,8 @@ Gra posiada kolorowy interfejs tekstowy, który ułatwia orientację w aktualnym
 * **Zapisywanie wyników:** Po zakończeniu gry (śmierć lub dobrowolne wyjście),
 * statystyki końcowe (pokonani wrogowie, zdobyte złoto, poziom ulepszeń) są automatycznie zapisywane do pliku `wynik1.txt`.
 
-Wybranie opcji 1:
-<img width="568" height="367" alt="Zrzut ekranu 2026-02-20 115301" src="https://github.com/user-attachments/assets/10ad2737-2b0c-4866-8fb1-d61ec5cfffd6" />
-Wybranie opcji 2:
-<img width="421" height="551" alt="Zrzut ekranu 2026-02-20 115255" src="https://github.com/user-attachments/assets/555fb083-1929-4a6c-8809-c8f7c1c5b65f" />
-Wybranie opcji 3:
-<img width="405" height="266" alt="Zrzut ekranu 2026-02-20 115248" src="https://github.com/user-attachments/assets/ebbdfd63-e8cc-4b32-8d4f-7060ff57cc82" />
-Wybranie opcji 4:
-<img width="365" height="320" alt="Zrzut ekranu 2026-02-20 115243" src="https://github.com/user-attachments/assets/c2a4562a-734b-4913-a5d0-35f502081fa6" />
-Wybranie opcji 5:
-<img width="577" height="746" alt="Zrzut ekranu 2026-02-20 115226" src="https://github.com/user-attachments/assets/9d7b4b75-a74f-4828-8129-e29e02cc2e2b" />
+<img width="828" height="512" alt="atak 1" src="https://github.com/user-attachments/assets/a75cbbbf-66ec-411b-9e70-ea609ddf1b4b" />
+<img width="831" height="551" alt="skrzynka 2" src="https://github.com/user-attachments/assets/c5598257-5e8c-4ba8-965f-b0cb3455b50a" />
+<img width="830" height="452" alt="magazyn 3" src="https://github.com/user-attachments/assets/4a7827c9-d4e4-47df-b34d-145d886d88bb" />
+<img width="834" height="546" alt="status gracza 4" src="https://github.com/user-attachments/assets/4651e5e7-6cc7-480a-9f05-d46a30f9352b" />
+<img width="837" height="581" alt="sklep 5" src="https://github.com/user-attachments/assets/8896ae2d-7670-4cbb-bcda-c0f96f216e98" />
