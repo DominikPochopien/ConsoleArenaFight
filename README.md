@@ -22,8 +22,13 @@ Gra posiada kolorowy interfejs tekstowy, który ułatwia orientację w aktualnym
 * **Zapisywanie wyników:** Po zakończeniu gry (śmierć lub dobrowolne wyjście),
 * statystyki końcowe (pokonani wrogowie, zdobyte złoto, poziom ulepszeń) są automatycznie zapisywane do pliku `wynik1.txt`.
 
+WYBRANIE PRZYCISKU NR 1 (ATAK GRACZA):
 <img width="828" height="512" alt="atak 1" src="https://github.com/user-attachments/assets/a75cbbbf-66ec-411b-9e70-ea609ddf1b4b" />
+WYBRANIE PRZYCISKU NR 2 (OTWIERANIE SKRZYNKI):
 <img width="831" height="551" alt="skrzynka 2" src="https://github.com/user-attachments/assets/c5598257-5e8c-4ba8-965f-b0cb3455b50a" />
+WYBRANIE PRZYCISKU NR 3 (WŁĄCZANIE MAGAZYNU):
 <img width="830" height="452" alt="magazyn 3" src="https://github.com/user-attachments/assets/4a7827c9-d4e4-47df-b34d-145d886d88bb" />
+WYBRANIE PRZYCISKU NR 4 (WŁĄCZANIE STATUSU GRACZA):
 <img width="834" height="546" alt="status gracza 4" src="https://github.com/user-attachments/assets/4651e5e7-6cc7-480a-9f05-d46a30f9352b" />
+WYBRANIE PRZYCISKU NR 5 (WŁĄCZANIE SKLEPU):
 <img width="837" height="581" alt="sklep 5" src="https://github.com/user-attachments/assets/8896ae2d-7670-4cbb-bcda-c0f96f216e98" />
